@@ -100,7 +100,7 @@ evaluation_config: {
             SCENES: [5],
             RANK: 3,
             FILENAME: <TESSE_EXECUTABLE_PATH>,
-            esdf_data: {'5': <SCENE_5_ESDF_PATH>,
-            scene_graph: {"5": <SCENE_5_DSG_PATH>,
+            esdf_data: {'5': <SCENE_5_ESDF_PATH>},
+            scene_graph: {"5": <SCENE_5_DSG_PATH>},
         }
     }
